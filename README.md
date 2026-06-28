@@ -442,5 +442,4 @@ src/
 ---
 
 ## 12. License
-
 Private — ACME HR Portal assessment project.
